@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.exe
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.deps.json
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.runtimeconfig.json
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.runtimeconfig.dev.json
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.dll
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\ref\LoginAndRegisterProgram.dll
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\bin\Debug\net5.0\LoginAndRegisterProgram.pdb
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.dll
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\ref\LoginAndRegisterProgram.dll
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.pdb
+C:\Users\asus\Documents\C#\Programs\LoginAndRegisterProgram\LoginAndRegisterProgram\obj\Debug\net5.0\LoginAndRegisterProgram.genruntimeconfig.cache
